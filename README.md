@@ -22,3 +22,5 @@ Backend:
 Node.js with Express.js (for creating APIs). MongoDB (to store user data, workout logs, and goals).
 
 Why This Project FitTrack involves mastering full-stack development with the MERN stack, which is highly in demand in the industry. The project also combines key concepts like user authentication, CRUD operations and visualization of data.
+
+## thank you
